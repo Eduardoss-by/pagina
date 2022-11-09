@@ -3,11 +3,16 @@
 	padding: 0;
 }
 p{
-	font-size: 20px;
+	font-size: 70px;
+	display: center;
+}
+a{
+	font-size: 50px;
 }
 #cabecalho{
 	height: 150px;
 	background: pink;
+	font-size: 200px;
 }
 
 #Menu{
@@ -21,6 +26,7 @@ p{
 	width: 15%;
 	background: yellow;
 	float: left;
+	font-size: 20px;
 
 }
 #pagina{
@@ -37,6 +43,8 @@ p{
 
 }
 .imagem{
-	height: 50%;
-	width: 50%;
+	
+}
+label{
+	font-size: 50px;
 }
