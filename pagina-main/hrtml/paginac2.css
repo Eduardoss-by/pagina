@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+p{
+	font-size: 70px;
+	display: center;
+}
+a{
+	font-size: 50px;
+}
+#cabecalho{
+	height: 250px;
+	background: pink;
+	font-size: 200px;
+}
+
+#Menu{
+	height: 500px;
+	width: 15%;
+	background: red;
+	float: left;
+}
+#lado{
+	height: 500px;
+	width: 15%;
+	background: yellow;
+	float: left;
+	font-size: 20px;
+
+}
+#pagina{
+	height: 500px;
+	width: 35%;
+	background: orange;
+	float: left;
+}
+#pagina2{
+	height: 500px;
+	width: 35%;
+	background: red;
+	float: left;
+}
+.imagem{
+	
+}
+label{
+	font-size: 50px;
+}
